@@ -5,3 +5,6 @@ Welcome to the Conatus Platform documentation set. Here you'll find everything y
 - [Applications](applications.md)
 - [Examples](examples.md)
 - [Integrations](integrations.md)
+- [Standard Modules](standard-modules.md)
+- [Optional Modules](optional-modules.md)
+
