@@ -9,4 +9,6 @@ This section contains information relevant to developers.
 
 ## Additional Resources
 
-- [Solution templates](architecture/solution-templates.md)
+- [Solution Templates](architecture/solution-templates.md)
+- [Docker Images](architecture/docker-images.md)
+- [Development Environments](architecture/development-environments.md)
