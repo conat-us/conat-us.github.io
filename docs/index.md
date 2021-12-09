@@ -4,6 +4,9 @@ Welcome to the Conatus Platform documentation set. Here you'll find everything y
 
 ## Getting Started
 
+- [Platform Overview](platform-overview.md)
+- [Value and Benefits](value-and-benefits.md)
+- [Typical Use Cases](use-cases.md)
 - [Quick Start Guide](quick-start.md)
 
 ## Platform and Features
